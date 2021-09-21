@@ -1,7 +1,7 @@
 # Yumemi Frontend Engineer - Reactjs - Typescript
 
 ## Production
-Visit to [https://yumemi-fe-test.vercel.app](yumemi-fe-test.vercel.app)
+Visit to [yumemi-fe-test.vercel.app](yumemi-fe-test.vercel.apphttps://yumemi-fe-test.vercel.app)
 ## Available Scripts
 
 In the project directory, you can run:
