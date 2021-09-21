@@ -1,0 +1,28 @@
+$grid: (
+    container: (
+        width: 1200,
+        gap: 15
+    ),
+    columns: (
+        max: 12,
+        gap: 30
+    ),
+    breakpoints: (
+        default: xs,
+        sm: 768,
+        md: 992,
+        lg: 1200
+    )
+);
+
+@function map-deep-get($map, $keys...) {
+  @each $key in $keys {
+      $map: map-get($map, $key);
+  }
+  @return $map;
+}
+
+$containerWidth: map-deep-get($grid, 'container', 'width');
+$containerGap: map-deep-get($grid, 'container', 'gap');
+$colMax: map-deep-get($grid, 'columns', 'max');
+$colGap: map-deep-get($grid, 'columns', 'gap');
