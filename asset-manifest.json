@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/yumemi-fe-test/static/css/main.66534502.chunk.css",
-    "main.js": "/yumemi-fe-test/static/js/main.f3da93d4.chunk.js",
-    "main.js.map": "/yumemi-fe-test/static/js/main.f3da93d4.chunk.js.map",
+    "main.js": "/yumemi-fe-test/static/js/main.334bae75.chunk.js",
+    "main.js.map": "/yumemi-fe-test/static/js/main.334bae75.chunk.js.map",
     "runtime-main.js": "/yumemi-fe-test/static/js/runtime-main.e6d49fd4.js",
     "runtime-main.js.map": "/yumemi-fe-test/static/js/runtime-main.e6d49fd4.js.map",
     "static/js/2.20de08df.chunk.js": "/yumemi-fe-test/static/js/2.20de08df.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.e6d49fd4.js",
     "static/js/2.20de08df.chunk.js",
     "static/css/main.66534502.chunk.css",
-    "static/js/main.f3da93d4.chunk.js"
+    "static/js/main.334bae75.chunk.js"
   ]
 }
