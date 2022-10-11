@@ -5,6 +5,9 @@ on: [push]
 jobs:
   build:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [14.19.1]
     name: build-gh-page
     env:
       GITHUB_TOKEN: ${{ secrets.ACTIONS_TOKEN }}
