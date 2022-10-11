@@ -13,7 +13,7 @@ const AppHeader = (props: AppHeaderProps) => {
     <div className="container-fluid app-header">
       <div className="row">
         <div className="col-xs-2">
-          <RouterLink to="/">
+          <RouterLink to="/abc">
             <Logo />
           </RouterLink>
         </div>
