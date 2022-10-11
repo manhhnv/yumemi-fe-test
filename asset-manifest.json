@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.66534502.chunk.css",
-    "main.js": "/static/js/main.dd9a1ebb.chunk.js",
-    "main.js.map": "/static/js/main.dd9a1ebb.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4533ba0c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4533ba0c.js.map",
-    "static/js/2.20de08df.chunk.js": "/static/js/2.20de08df.chunk.js",
-    "static/js/2.20de08df.chunk.js.map": "/static/js/2.20de08df.chunk.js.map",
-    "static/js/3.285555ff.chunk.js": "/static/js/3.285555ff.chunk.js",
-    "static/js/3.285555ff.chunk.js.map": "/static/js/3.285555ff.chunk.js.map",
-    "index.html": "/index.html",
-    "service-worker.js": "/service-worker.js",
-    "service-worker.js.LICENSE.txt": "/service-worker.js.LICENSE.txt",
-    "service-worker.js.map": "/service-worker.js.map",
-    "static/css/main.66534502.chunk.css.map": "/static/css/main.66534502.chunk.css.map",
-    "static/js/2.20de08df.chunk.js.LICENSE.txt": "/static/js/2.20de08df.chunk.js.LICENSE.txt"
+    "main.css": "/yumemi-fe-test/static/css/main.66534502.chunk.css",
+    "main.js": "/yumemi-fe-test/static/js/main.334bae75.chunk.js",
+    "main.js.map": "/yumemi-fe-test/static/js/main.334bae75.chunk.js.map",
+    "runtime-main.js": "/yumemi-fe-test/static/js/runtime-main.e6d49fd4.js",
+    "runtime-main.js.map": "/yumemi-fe-test/static/js/runtime-main.e6d49fd4.js.map",
+    "static/js/2.20de08df.chunk.js": "/yumemi-fe-test/static/js/2.20de08df.chunk.js",
+    "static/js/2.20de08df.chunk.js.map": "/yumemi-fe-test/static/js/2.20de08df.chunk.js.map",
+    "static/js/3.285555ff.chunk.js": "/yumemi-fe-test/static/js/3.285555ff.chunk.js",
+    "static/js/3.285555ff.chunk.js.map": "/yumemi-fe-test/static/js/3.285555ff.chunk.js.map",
+    "index.html": "/yumemi-fe-test/index.html",
+    "service-worker.js": "/yumemi-fe-test/service-worker.js",
+    "service-worker.js.LICENSE.txt": "/yumemi-fe-test/service-worker.js.LICENSE.txt",
+    "service-worker.js.map": "/yumemi-fe-test/service-worker.js.map",
+    "static/css/main.66534502.chunk.css.map": "/yumemi-fe-test/static/css/main.66534502.chunk.css.map",
+    "static/js/2.20de08df.chunk.js.LICENSE.txt": "/yumemi-fe-test/static/js/2.20de08df.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4533ba0c.js",
+    "static/js/runtime-main.e6d49fd4.js",
     "static/js/2.20de08df.chunk.js",
     "static/css/main.66534502.chunk.css",
-    "static/js/main.dd9a1ebb.chunk.js"
+    "static/js/main.334bae75.chunk.js"
   ]
 }
